@@ -1,4 +1,4 @@
-# UnstructuredDataAnalyticis_for_Craft-_Beer_Recommendations
+# UnstructuredDataAnalyticis_for_Craft_Beer_Recommendations
 
 ## Introduction
 This project focuses on building the foundational components of a recommender system for craft beer enthusiasts. Leveraging a dataset of beer reviews, the system aims to recommend beers based on user-specified attributes.
